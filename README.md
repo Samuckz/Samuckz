@@ -6,8 +6,7 @@
 
 ## **Perfil**
 
-Sou um entusiasta da Engenharia de Software em busca de oportunidades para consolidar minha carreira como Desenvolvedor Java Júnior. Comprometido, transparente e organizado, busco mergulhar em desafios estimulantes que ampliem minha expertise em tecnologia.
-
+Entusiasta da Engenharia de Software, estou empenhado em consolidar minha carreira como Desenvolvedor Java Júnior, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Minha abordagem para desafios é marcada pela determinação, transparência e organização. Estou comprometido em aprofundar meus conhecimentos na arquitetura de microserviços, aplicando-os em projetos práticos para contribuir não apenas para minha expertise em tecnologia, mas também para meu crescimento profissional. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras. Estou pronto para integrar uma equipe dinâmica e aprender continuamente. 
 ---
 
 ## **Habilidades**
@@ -19,10 +18,10 @@ Sou um entusiasta da Engenharia de Software em busca de oportunidades para conso
 
 ### **Hard-Skills**
 - **Desenvolvimento:**
-  - Framework Spring Boot e Spring Security
-  - MySQL
-  - HTML, CSS, JavaScript, Python, PHP
-  - MongoDB, C, Containers Docker
+  - Ecossitema Spring, contando com o framework Spring Boot, com conhecimentos em Spring Security, API Gateway e Service Discovery
+  - MySQL, Postgres e MongoDb
+  - Conhecimentos em HTML, CSS, JavaScript, Python, PHP
+  -  Noções de C e Containers Docker
 
 - **Controle de Versão:**
   - Git e versionamento de código
@@ -35,14 +34,14 @@ Sou um entusiasta da Engenharia de Software em busca de oportunidades para conso
   - Office Intermediário
 
 - **Idiomas:**
-  - Inglês intermediário (leitura e escuta avançada, fala e escrita intermediárias)
+  - Inglês avançado (leitura e escuta avançada, fala e escrita intermediárias)
 
 ---
 
 ## **Formação Acadêmica**
 
 **Engenharia da Computação - CEFET MG**
-- 3º período
+- 4º período
 - Vertentes de formação: Engenharia de Software, Redes de Computadores e Sistemas Distribuídos, Sistemas de Automação e Processos Produtivos, Sistemas Inteligentes
 
 ---
@@ -59,8 +58,11 @@ Sou um entusiasta da Engenharia de Software em busca de oportunidades para conso
 ## **Cursos e Projetos de Extensão**
 
 **Cursos Complementares:**
+- Spring Boot 3: API Rest em Java - Alura
+- Spring Boot 3: aplique boas práticas e proteja uma API Rest - Alura
+- Spring Boot 3: documente, teste e prepare uma API para deploy - Alura
 - Desenvolvimento WEB Completo - Udemy
-- Spring Boot - Alura
+- Microserviços: Entendendo as tomadas de decisões - Alura
 - MongoDB - Alura
 
 **Projetos de Extensão:**
