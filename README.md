@@ -61,8 +61,8 @@ Entusiasta da Engenharia de Software, estou empenhado em consolidar minha carrei
 - Spring Boot 3: API Rest em Java - Alura
 - Spring Boot 3: aplique boas práticas e proteja uma API Rest - Alura
 - Spring Boot 3: documente, teste e prepare uma API para deploy - Alura
-- Desenvolvimento WEB Completo - Udemy
 - Microserviços: Entendendo as tomadas de decisões - Alura
+- Desenvolvimento WEB Completo - Udemy
 - MongoDB - Alura
 
 **Projetos de Extensão:**
