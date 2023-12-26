@@ -6,7 +6,7 @@
 
 ## **Perfil**
 
-Entusiasta da Engenharia de Software, estou empenhado em consolidar minha carreira como Desenvolvedor Java Júnior, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Minha abordagem para desafios é marcada pela determinação, transparência e organização. Estou comprometido em aprofundar meus conhecimentos na arquitetura de microserviços, aplicando-os em projetos práticos para contribuir não apenas para minha expertise em tecnologia, mas também para meu crescimento profissional. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras. Estou pronto para integrar uma equipe dinâmica e aprender continuamente. 
+Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carreira como Desenvolvedor Java Júnior, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Minha abordagem para desafios é marcada pela determinação, transparência e organização. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras. Estou pronto para integrar uma equipe dinâmica e aprender continuamente. 
 ---
 
 ## **Habilidades**
