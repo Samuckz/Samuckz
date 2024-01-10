@@ -6,8 +6,7 @@
 
 ## **Perfil**
 
-Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carreira como Desenvolvedor Java, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Minha abordagem para desafios é marcada pela determinação, transparência e organização. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras. Estou pronto para integrar uma equipe dinâmica e aprender continuamente. 
----
+Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carreira como Desenvolvedor Java, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras.
 
 ## **Habilidades**
 
