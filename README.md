@@ -6,7 +6,7 @@
 
 ## **Perfil**
 
-Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carreira como Desenvolvedor Java Júnior, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Minha abordagem para desafios é marcada pela determinação, transparência e organização. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras. Estou pronto para integrar uma equipe dinâmica e aprender continuamente. 
+Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carreira como Desenvolvedor Java, com especial interesse na área de desenvolvimento de microserviços, utilizando o ecossistema Spring como minha principal ferramenta. Minha abordagem para desafios é marcada pela determinação, transparência e organização. Busco oportunidades que ofereçam desafios estimulantes e a chance de explorar as vastas possibilidades do desenvolvimento de software, contribuindo para soluções eficientes e inovadoras. Estou pronto para integrar uma equipe dinâmica e aprender continuamente. 
 ---
 
 ## **Habilidades**
@@ -18,11 +18,10 @@ Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carre
 
 ### **Hard-Skills**
 - **Desenvolvimento:**
-  - Ecossitema Spring, contando com o framework Spring Boot, com conhecimentos em Spring Security, API Gateway e Service Discovery
-  - MySQL, Postgres e MongoDb
-  - Conhecimentos em HTML, CSS, JavaScript, Python, PHP
-  -  Noções de C e Containers Docker
-
+  - 1+ ano de experiência com o framework Spring Boot, aprimorando conhecimento sobre sobre Spring Security, Discovery Server, API Gateway, Mensageria com RabbitMQ, e JPA. 
+  - 1 ano de experiência com MySql, PostGresql e MongoDB
+  - Conhecimentos básicos em Testes automatizados e TDD, Angular, HTML, CSS, JavaScript, Python, PHP, C e Containers Docker.
+ 
 - **Controle de Versão:**
   - Git e versionamento de código
 
@@ -62,12 +61,15 @@ Entusiasta da Engenharia de Software, estou empenhado em desenvolver minha carre
 - Spring Boot 3: aplique boas práticas e proteja uma API Rest - Alura
 - Spring Boot 3: documente, teste e prepare uma API para deploy - Alura
 - Microserviços: Entendendo as tomadas de decisões - Alura
-- Desenvolvimento WEB Completo - Udemy
-- MongoDB - Alura
+- Microserviços: Mensageria com RabbitMQ - Alura
+- Angular 14: Aplique os conceitos e desenvolva seu primeiro CRUD - Alura
+- Boas práticas de Programação: Automatizando testes com Java
+- Desenvolvimento WEB Completo: Udemy
+- MongoDB: Alura
 
 **Projetos de Extensão:**
 - **Equipe Trincabotz (Jun/2021 - Mar/2022):**
-  - Capitão da Gestão, gerenciamento e organização da equipe.
+  - Capitão da Gestão sendo responsável por gerenciar e organizar da equipe, realizando o preenchimento de documentos, coordenando a equipe de marketing e o site da equipe, procurando novos patrocinadores e etc.
 
 - **Projeto Enxurrada de bits (Ago/2022 - Em andamento):**
   - Professor da área de Desenvolvimento WEB (Front-End) para alunos de Escolas Públicas.
